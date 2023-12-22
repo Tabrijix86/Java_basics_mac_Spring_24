@@ -10,6 +10,6 @@ package general_programming;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Srping 2024");
+        System.out.println("Hello, Srping 2024!");
     }
 }
