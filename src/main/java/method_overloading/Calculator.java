@@ -32,8 +32,8 @@ public class Calculator {
     }
 
     /* Method overloading can be achieved in three different ways:
-        1. Difference in method parameter number
-        2. Difference in parameter data type
-        3. Same number of parameters and same data type, but different sequence
+        1. Difference may be in method parameter number
+        2. Difference may be in parameter data type
+        3. Same number of parameters and same data type, but may be in different sequence
      */
 }
