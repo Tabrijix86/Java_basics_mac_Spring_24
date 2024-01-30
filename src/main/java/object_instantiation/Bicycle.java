@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package object_instantiation;
 
 /**
@@ -14,7 +10,7 @@ public class Bicycle {
     private int speed = 0;
     private int gear = 1;
 
-    public Bicycle() {
+    public Bicycle() { //default constructor
     }
 
     public void changepedalingRate(int newValue) {
